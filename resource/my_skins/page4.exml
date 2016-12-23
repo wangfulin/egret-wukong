@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="page4" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="pageFourBg" source="page4-bg_jpg" left="0" right="0" top="0" bottom="0" alpha="1"/>
+	<e:Image id="beibeiDialog" width="248.78" height="0" x="250" y="458.94" source="page4-beibeiDialog_png" anchorOffsetX="0" anchorOffsetY="0" alpha="0"/>
+	<e:Image id="ceoDialog" width="678" height="228" x="375" y="818.79" source="page4-ceoTalking_png" anchorOffsetX="0" anchorOffsetY="0" alpha="0" horizontalCenter="0"/>
+</e:Skin>

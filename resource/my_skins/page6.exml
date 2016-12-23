@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="page6" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="pageSixBackground" source="page6-background_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="pageSixBg" source="page6-bg_png" width="742" height="1050" y="150" x="8"/>
+	<e:Scroller id="pageSixScroller" width="742" height="700" x="36" y="380" enabled="true">
+		<e:Group id="pageSixGroup" height="4954" width="700" x="0" y="0" scrollEnabled="true">
+			<e:Image id="pageSixInstructors1" source="page6-instructors1_png" anchorOffsetX="0" anchorOffsetY="0" height="1139" width="680" />
+			<e:Image id="pageSixInstructors2" source="page6-instructors2_png" anchorOffsetX="0" anchorOffsetY="0" y="1139" height="1412" width="680" />
+			<e:Image id="pageSixInstructors3" source="page6-instructors3_png" anchorOffsetX="0" anchorOffsetY="0" y="2551" height="1138" width="680" />
+			<e:Image id="pageSixInstructors4" source="page6-instructors4_png" anchorOffsetX="0" anchorOffsetY="0" y="3689" height="1145" width="680" />
+			<e:Image id="pageSixBtn" width="232" height="80" y="4860" source="page6-btn_png" x="214" anchorOffsetX="0" anchorOffsetY="0" />
+		</e:Group>
+	</e:Scroller>
+	<e:Image id="pageSixCloseBtn" width="100" height="84" y="124" source="close-btn_png" anchorOffsetX="0" anchorOffsetY="0" x="660"/>
+</e:Skin>

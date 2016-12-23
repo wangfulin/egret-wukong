@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="page3" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="page3-office_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="pageThreePopup" width="713" height="875" x="18" y="178.88" source="page3-popup_png" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="pageThreeCloseBtn" width="90" height="90" x="660" y="143" source="page3-closeBtn_png" anchorOffsetX="0" anchorOffsetY="0"/>
+</e:Skin>

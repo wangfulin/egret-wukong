@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="page2" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*"  states="start" >
+	<e:Image source="page2-office_jpg" right="0" bottom="0" left="0" top="0"/>
+	<e:Image id="pageTwoLightLeft" source="page2-light1_png" alpha="0" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="pageTwoLightRight" source="page2-light2_png" alpha="0" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="pageTwoDialog" width="0" height="0" source="page2-dialog_png" anchorOffsetX="0" anchorOffsetY="0" y="660" x="375" alpha="1"/>
+</e:Skin>

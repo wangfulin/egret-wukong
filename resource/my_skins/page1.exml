@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="page1" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="pageOneBg" left="0" bottom="10" horizontalCenter="0" source="page1-bg_jpg"/>
+	<e:Image id="pageOneDialog" source="page1-text_png" height="0" width="0" alpha="0" x="640" y="538"/>
+	<e:Image id="pageOneBtn" source="page1-btn_png" y="1101.12" width="331" height="100" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" scaleX="1.2" scaleY="1.2"/>
+	<e:Image id="pageOneTxt" width="684" height="174" y="180" source="page1-txt_png" horizontalCenter="0"/>
+</e:Skin>

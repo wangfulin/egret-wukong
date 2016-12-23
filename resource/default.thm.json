@@ -1,0 +1,13 @@
+{
+  "skins": {},
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    "resource/my_skins/page1.exml",
+    "resource/my_skins/page2.exml",
+    "resource/my_skins/page3.exml",
+    "resource/my_skins/page4.exml",
+    "resource/my_skins/page5.exml",
+    "resource/my_skins/page6.exml",
+    "resource/my_skins/page7.exml"
+  ]
+}
